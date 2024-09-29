@@ -1,0 +1,282 @@
+[
+    {
+        "model": "api.furniture",
+        "pk": 21,
+        "fields": {
+            "name": "Modern Marble Dining Table",
+            "description": "A sleek dining table made with high-quality marble and stainless steel legs, perfect for a modern kitchen.",
+            "price": "35999.00",
+            "available": true,
+            "image": "furniture_images/modern_marble_dining_table.jpg",
+            "category": "kitchen",
+            "dimensions": "60x35x30 inches",
+            "material": "Marble, Stainless Steel"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 22,
+        "fields": {
+            "name": "Contemporary Bar Stool Set",
+            "description": "Set of two bar stools with adjustable height and comfortable seating, ideal for kitchen islands.",
+            "price": "7999.00",
+            "available": true,
+            "image": "furniture_images/contemporary_bar_stool_set.jpg",
+            "category": "kitchen",
+            "dimensions": "15x15x30 inches",
+            "material": "Faux Leather, Metal"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 23,
+        "fields": {
+            "name": "Minimalist Wooden Kitchen Island",
+            "description": "A stylish kitchen island with additional storage space and a minimalist wooden design.",
+            "price": "22999.00",
+            "available": true,
+            "image": "furniture_images/minimalist_wooden_kitchen_island.jpg",
+            "category": "kitchen",
+            "dimensions": "50x28x36 inches",
+            "material": "Oak Wood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 24,
+        "fields": {
+            "name": "Glass Top Kitchen Table",
+            "description": "A modern glass top kitchen table with steel legs, perfect for small spaces and open kitchens.",
+            "price": "14999.00",
+            "available": true,
+            "image": "furniture_images/glass_top_kitchen_table.jpg",
+            "category": "kitchen",
+            "dimensions": "48x28x30 inches",
+            "material": "Tempered Glass, Steel"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 25,
+        "fields": {
+            "name": "Adjustable Swivel Bar Stool",
+            "description": "Comfortable and adjustable bar stool with swivel function, modern design for contemporary kitchens.",
+            "price": "4999.00",
+            "available": true,
+            "image": "furniture_images/adjustable_swivel_bar_stool.jpg",
+            "category": "kitchen",
+            "dimensions": "16x16x32 inches",
+            "material": "Leather, Metal"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 26,
+        "fields": {
+            "name": "Modern Kitchen Cabinet Set",
+            "description": "A full kitchen cabinet set with soft-close doors and modern handles, perfect for storing kitchen essentials.",
+            "price": "85000.00",
+            "available": true,
+            "image": "furniture_images/modern_kitchen_cabinet_set.jpg",
+            "category": "kitchen",
+            "dimensions": "Varies by unit",
+            "material": "MDF, Stainless Steel"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 27,
+        "fields": {
+            "name": "Stainless Steel Kitchen Sink",
+            "description": "A modern stainless steel kitchen sink with dual basins and an attached drying rack.",
+            "price": "14999.00",
+            "available": true,
+            "image": "furniture_images/stainless_steel_kitchen_sink.jpg",
+            "category": "kitchen",
+            "dimensions": "33x22x10 inches",
+            "material": "Stainless Steel"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 28,
+        "fields": {
+            "name": "Granite Kitchen Countertop",
+            "description": "A durable granite countertop with a polished surface, suitable for modern kitchens.",
+            "price": "44999.00",
+            "available": true,
+            "image": "furniture_images/granite_kitchen_countertop.jpg",
+            "category": "kitchen",
+            "dimensions": "72x25x1.5 inches",
+            "material": "Granite"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 29,
+        "fields": {
+            "name": "Contemporary Kitchen Bar Cart",
+            "description": "A modern bar cart with wine storage and wheels for easy mobility in the kitchen.",
+            "price": "8999.00",
+            "available": true,
+            "image": "furniture_images/contemporary_kitchen_bar_cart.jpg",
+            "category": "kitchen",
+            "dimensions": "30x18x36 inches",
+            "material": "Wood, Metal"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 30,
+        "fields": {
+            "name": "Stylish Pendant Light Fixture",
+            "description": "A sleek and stylish pendant light fixture to hang over kitchen islands or dining tables.",
+            "price": "2999.00",
+            "available": true,
+            "image": "furniture_images/stylish_pendant_light_fixture.jpg",
+            "category": "kitchen",
+            "dimensions": "12x12x18 inches",
+            "material": "Glass, Metal"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 31,
+        "fields": {
+            "name": "Modern Kitchen Stool with Footrest",
+            "description": "A modern kitchen stool with an ergonomic design and footrest, great for long hours of use.",
+            "price": "5999.00",
+            "available": true,
+            "image": "furniture_images/modern_kitchen_stool.jpg",
+            "category": "kitchen",
+            "dimensions": "17x17x32 inches",
+            "material": "Wood, Metal"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 32,
+        "fields": {
+            "name": "High Gloss Kitchen Cupboard",
+            "description": "A sleek, high-gloss cupboard with plenty of storage space for modern kitchen essentials.",
+            "price": "45999.00",
+            "available": true,
+            "image": "furniture_images/high_gloss_kitchen_cupboard.jpg",
+            "category": "kitchen",
+            "dimensions": "40x20x72 inches",
+            "material": "MDF, High-Gloss Finish"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 33,
+        "fields": {
+            "name": "Stainless Steel Kitchen Faucet",
+            "description": "A contemporary kitchen faucet with pull-down sprayer and sleek design for modern kitchens.",
+            "price": "6999.00",
+            "available": true,
+            "image": "furniture_images/stainless_steel_kitchen_faucet.jpg",
+            "category": "kitchen",
+            "dimensions": "15x10x8 inches",
+            "material": "Stainless Steel"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 34,
+        "fields": {
+            "name": "Mid-Century Modern Bar Cart",
+            "description": "A trendy bar cart with a mid-century modern design, perfect for serving drinks in a stylish kitchen.",
+            "price": "11999.00",
+            "available": true,
+            "image": "furniture_images/mid_century_modern_bar_cart.jpg",
+            "category": "kitchen",
+            "dimensions": "32x18x35 inches",
+            "material": "Wood, Metal"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 35,
+        "fields": {
+            "name": "Kitchen Wall-Mounted Shelf",
+            "description": "A minimalist wall-mounted shelf for additional kitchen storage and displaying modern decor.",
+            "price": "2499.00",
+            "available": true,
+            "image": "furniture_images/kitchen_wall_mounted_shelf.jpg",
+            "category": "kitchen",
+            "dimensions": "40x10x10 inches",
+            "material": "Wood, Metal"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 36,
+        "fields": {
+            "name": "Contemporary Kitchen Dining Chair",
+            "description": "A set of two modern dining chairs with cushioned seating, perfect for a stylish kitchen.",
+            "price": "13999.00",
+            "available": true,
+            "image": "furniture_images/contemporary_kitchen_dining_chair.jpg",
+            "category": "kitchen",
+            "dimensions": "18x18x36 inches",
+            "material": "Fabric, Metal"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 37,
+        "fields": {
+            "name": "Modern Kitchen Table with Metal Legs",
+            "description": "A spacious kitchen table with a solid wood top and sleek metal legs, perfect for family meals.",
+            "price": "25999.00",
+            "available": true,
+            "image": "furniture_images/modern_kitchen_table.jpg",
+            "category": "kitchen",
+            "dimensions": "72x36x30 inches",
+            "material": "Wood, Metal"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 38,
+        "fields": {
+            "name": "Rustic Kitchen Baker's Rack",
+            "description": "A rustic baker's rack with open shelves and a wooden top, perfect for storing kitchen supplies.",
+            "price": "19999.00",
+            "available": true,
+            "image": "furniture_images/rustic_kitchen_bakers_rack.jpg",
+            "category": "kitchen",
+            "dimensions": "36x24x72 inches",
+            "material": "Wood, Metal"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 39,
+        "fields": {
+            "name": "Portable Kitchen Cart with Drawers",
+            "description": "A portable kitchen cart with wheels and drawers for easy storage and mobility.",
+            "price": "14999.00",
+            "available": true,
+            "image": "furniture_images/portable_kitchen_cart.jpg",
+            "category": "kitchen",
+            "dimensions": "36x18x36 inches",
+            "material": "Wood, Metal"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 40,
+        "fields": {
+            "name": "Vintage Style Kitchen Sideboard",
+            "description": "A vintage-style sideboard with plenty of storage, perfect for adding charm to your kitchen.",
+            "price": "27999.00",
+            "available": true,
+            "image": "furniture_images/vintage_style_kitchen_sideboard.jpg",
+            "category": "kitchen",
+            "dimensions": "60x18x36 inches",
+            "material": "Wood"
+        }
+    }
+]

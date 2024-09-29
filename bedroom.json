@@ -1,0 +1,282 @@
+[
+    {
+        "model": "api.furniture",
+        "pk": 41,
+        "fields": {
+            "name": "Modern King Size Bed",
+            "description": "A modern king-size bed with a plush headboard and sturdy wooden frame, perfect for a luxurious bedroom.",
+            "price": "49999.00",
+            "available": true,
+            "image": "furniture_images/modern_king_size_bed.jpg",
+            "category": "bedroom",
+            "dimensions": "200x180x100 cm",
+            "material": "Wood, Fabric"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 42,
+        "fields": {
+            "name": "Wooden Nightstand with Drawers",
+            "description": "A compact wooden nightstand with two drawers for storing bedroom essentials.",
+            "price": "5999.00",
+            "available": true,
+            "image": "furniture_images/wooden_nightstand_with_drawers.jpg",
+            "category": "bedroom",
+            "dimensions": "45x40x55 cm",
+            "material": "Wood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 43,
+        "fields": {
+            "name": "Minimalist Bedroom Wardrobe",
+            "description": "A sleek and minimalist wardrobe with sliding doors, ideal for modern bedrooms.",
+            "price": "29999.00",
+            "available": true,
+            "image": "furniture_images/minimalist_bedroom_wardrobe.jpg",
+            "category": "bedroom",
+            "dimensions": "180x60x220 cm",
+            "material": "Wood, Metal"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 44,
+        "fields": {
+            "name": "Luxurious Memory Foam Mattress",
+            "description": "A memory foam mattress offering supreme comfort and support for a restful night's sleep.",
+            "price": "18999.00",
+            "available": true,
+            "image": "furniture_images/luxurious_memory_foam_mattress.jpg",
+            "category": "bedroom",
+            "dimensions": "200x180x20 cm",
+            "material": "Memory Foam"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 45,
+        "fields": {
+            "name": "Bedside Lamp with Wooden Base",
+            "description": "A stylish bedside lamp with a wooden base and soft ambient lighting for cozy bedrooms.",
+            "price": "1999.00",
+            "available": true,
+            "image": "furniture_images/bedside_lamp_with_wooden_base.jpg",
+            "category": "bedroom",
+            "dimensions": "30x15x15 cm",
+            "material": "Wood, Fabric"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 46,
+        "fields": {
+            "name": "Modern Dressing Table with Mirror",
+            "description": "A modern dressing table with a full-length mirror and multiple drawers for storing makeup and accessories.",
+            "price": "24999.00",
+            "available": true,
+            "image": "furniture_images/modern_dressing_table_with_mirror.jpg",
+            "category": "bedroom",
+            "dimensions": "120x50x180 cm",
+            "material": "Wood, Glass"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 47,
+        "fields": {
+            "name": "Elegant Bedroom Bench",
+            "description": "An elegant bedroom bench with cushioned seating, perfect for placing at the foot of the bed.",
+            "price": "9999.00",
+            "available": true,
+            "image": "furniture_images/elegant_bedroom_bench.jpg",
+            "category": "bedroom",
+            "dimensions": "120x40x50 cm",
+            "material": "Wood, Fabric"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 48,
+        "fields": {
+            "name": "Wooden Chest of Drawers",
+            "description": "A sturdy wooden chest of drawers with ample storage for bedroom clothes and accessories.",
+            "price": "13999.00",
+            "available": true,
+            "image": "furniture_images/wooden_chest_of_drawers.jpg",
+            "category": "bedroom",
+            "dimensions": "100x50x120 cm",
+            "material": "Wood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 49,
+        "fields": {
+            "name": "Classic Wooden Bedside Table",
+            "description": "A classic wooden bedside table with one drawer and open storage space below.",
+            "price": "4499.00",
+            "available": true,
+            "image": "furniture_images/classic_wooden_bedside_table.jpg",
+            "category": "bedroom",
+            "dimensions": "50x40x60 cm",
+            "material": "Wood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 50,
+        "fields": {
+            "name": "Ergonomic Bedroom Reading Chair",
+            "description": "A comfortable reading chair with ergonomic support, ideal for bedroom nooks.",
+            "price": "10999.00",
+            "available": true,
+            "image": "furniture_images/ergonomic_bedroom_reading_chair.jpg",
+            "category": "bedroom",
+            "dimensions": "75x80x90 cm",
+            "material": "Fabric, Wood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 51,
+        "fields": {
+            "name": "Modern Floating Bedside Shelf",
+            "description": "A modern floating shelf with a minimalist design for placing books, alarm clocks, or decor items.",
+            "price": "3499.00",
+            "available": true,
+            "image": "furniture_images/modern_floating_bedside_shelf.jpg",
+            "category": "bedroom",
+            "dimensions": "40x25x15 cm",
+            "material": "Wood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 52,
+        "fields": {
+            "name": "Scandinavian Style Bed Frame",
+            "description": "A simple yet elegant Scandinavian-style bed frame, built with high-quality wood.",
+            "price": "24999.00",
+            "available": true,
+            "image": "furniture_images/scandinavian_style_bed_frame.jpg",
+            "category": "bedroom",
+            "dimensions": "200x160x40 cm",
+            "material": "Wood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 53,
+        "fields": {
+            "name": "Luxury Upholstered Ottoman",
+            "description": "A luxurious upholstered ottoman, great for bedroom seating or extra storage.",
+            "price": "7999.00",
+            "available": true,
+            "image": "furniture_images/luxury_upholstered_ottoman.jpg",
+            "category": "bedroom",
+            "dimensions": "90x45x45 cm",
+            "material": "Fabric, Wood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 54,
+        "fields": {
+            "name": "Mirrored Bedroom Wardrobe",
+            "description": "A spacious wardrobe with full-length mirrored doors, perfect for modern bedroom storage.",
+            "price": "32999.00",
+            "available": true,
+            "image": "furniture_images/mirrored_bedroom_wardrobe.jpg",
+            "category": "bedroom",
+            "dimensions": "180x60x220 cm",
+            "material": "Wood, Glass"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 55,
+        "fields": {
+            "name": "Vintage Style Dressing Table",
+            "description": "A vintage-style dressing table with intricate woodwork and a large mirror.",
+            "price": "27999.00",
+            "available": true,
+            "image": "furniture_images/vintage_style_dressing_table.jpg",
+            "category": "bedroom",
+            "dimensions": "120x50x180 cm",
+            "material": "Wood, Glass"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 56,
+        "fields": {
+            "name": "Tufted Velvet Bedroom Bench",
+            "description": "A stylish tufted velvet bench for adding extra seating or decor to your bedroom.",
+            "price": "13999.00",
+            "available": true,
+            "image": "furniture_images/tufted_velvet_bedroom_bench.jpg",
+            "category": "bedroom",
+            "dimensions": "130x40x50 cm",
+            "material": "Velvet, Wood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 57,
+        "fields": {
+            "name": "Classic Wooden Bed with Storage",
+            "description": "A wooden bed with built-in storage drawers, perfect for optimizing space in bedrooms.",
+            "price": "35999.00",
+            "available": true,
+            "image": "furniture_images/classic_wooden_bed_with_storage.jpg",
+            "category": "bedroom",
+            "dimensions": "200x180x100 cm",
+            "material": "Wood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 58,
+        "fields": {
+            "name": "Adjustable Reading Floor Lamp",
+            "description": "An adjustable floor lamp for reading in bed or relaxing in your bedroom.",
+            "price": "3999.00",
+            "available": true,
+            "image": "furniture_images/adjustable_reading_floor_lamp.jpg",
+            "category": "bedroom",
+            "dimensions": "25x25x150 cm",
+            "material": "Metal, Fabric"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 59,
+        "fields": {
+            "name": "Kids' Themed Bunk Bed",
+            "description": "A fun and colorful bunk bed designed for kids, perfect for shared bedrooms.",
+            "price": "29999.00",
+            "available": true,
+            "image": "furniture_images/kids_themed_bunk_bed.jpg",
+            "category": "bedroom",
+            "dimensions": "200x100x150 cm",
+            "material": "Wood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 60,
+        "fields": {
+            "name": "Folding Study Desk",
+            "description": "A space-saving folding study desk that can be tucked away when not in use.",
+            "price": "7999.00",
+            "available": true,
+            "image": "furniture_images/folding_study_desk.jpg",
+            "category": "bedroom",
+            "dimensions": "100x50x75 cm",
+            "material": "Wood, Metal"
+        }
+    }
+]

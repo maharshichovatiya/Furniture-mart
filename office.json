@@ -1,0 +1,282 @@
+[
+    {
+        "model": "api.furniture",
+        "pk": 61,
+        "fields": {
+            "name": "Ergonomic Office Chair",
+            "description": "A comfortable ergonomic chair with adjustable height and lumbar support.",
+            "price": "15999.99",
+            "available": true,
+            "image": "furniture_images/ergonomic_office_chair.jpg",
+            "category": "office",
+            "dimensions": "24x24x40 inches",
+            "material": "Mesh and plastic"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 62,
+        "fields": {
+            "name": "Modern Office Desk",
+            "description": "A sleek modern desk with ample workspace and minimalist design.",
+            "price": "24999.00",
+            "available": true,
+            "image": "furniture_images/modern_office_desk.jpg",
+            "category": "office",
+            "dimensions": "60x30x30 inches",
+            "material": "Engineered wood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 63,
+        "fields": {
+            "name": "L-Shaped Workstation",
+            "description": "An L-shaped workstation perfect for multitasking and collaboration.",
+            "price": "34999.99",
+            "available": true,
+            "image": "furniture_images/l_shaped_workstation.jpg",
+            "category": "office",
+            "dimensions": "72x60x30 inches",
+            "material": "MDF"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 64,
+        "fields": {
+            "name": "Filing Cabinet",
+            "description": "A secure filing cabinet with four spacious drawers.",
+            "price": "10999.50",
+            "available": true,
+            "image": "furniture_images/filing_cabinet.jpg",
+            "category": "office",
+            "dimensions": "36x20x50 inches",
+            "material": "Steel"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 65,
+        "fields": {
+            "name": "Conference Table",
+            "description": "A large conference table suitable for meetings and discussions.",
+            "price": "49999.00",
+            "available": true,
+            "image": "furniture_images/conference_table.jpg",
+            "category": "office",
+            "dimensions": "96x48x30 inches",
+            "material": "Solid wood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 66,
+        "fields": {
+            "name": "Bookshelf",
+            "description": "A tall bookshelf with adjustable shelves for storing books and files.",
+            "price": "7999.99",
+            "available": true,
+            "image": "furniture_images/bookshelf.jpg",
+            "category": "office",
+            "dimensions": "72x30x12 inches",
+            "material": "Plywood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 67,
+        "fields": {
+            "name": "Mobile File Cabinet",
+            "description": "A mobile file cabinet with wheels for easy movement.",
+            "price": "4999.00",
+            "available": true,
+            "image": "furniture_images/mobile_file_cabinet.jpg",
+            "category": "office",
+            "dimensions": "18x18x24 inches",
+            "material": "Metal"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 68,
+        "fields": {
+            "name": "Adjustable Standing Desk",
+            "description": "A height-adjustable desk that promotes better posture.",
+            "price": "28999.99",
+            "available": true,
+            "image": "furniture_images/adjustable_standing_desk.jpg",
+            "category": "office",
+            "dimensions": "60x30x30-50 inches",
+            "material": "Engineered wood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 69,
+        "fields": {
+            "name": "Office Cubicle Partition",
+            "description": "A cubicle partition for creating private workspaces.",
+            "price": "6999.99",
+            "available": true,
+            "image": "furniture_images/office_cubicle_partition.jpg",
+            "category": "office",
+            "dimensions": "60x48 inches",
+            "material": "Fabric and metal"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 70,
+        "fields": {
+            "name": "Executive Desk",
+            "description": "A stylish executive desk with built-in storage.",
+            "price": "39999.00",
+            "available": true,
+            "image": "furniture_images/executive_desk.jpg",
+            "category": "office",
+            "dimensions": "72x36x30 inches",
+            "material": "Solid wood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 71,
+        "fields": {
+            "name": "Collapsible Meeting Table",
+            "description": "A collapsible meeting table for easy storage and transport.",
+            "price": "11999.50",
+            "available": true,
+            "image": "furniture_images/collapsible_meeting_table.jpg",
+            "category": "office",
+            "dimensions": "72x30x30 inches",
+            "material": "Plastic and metal"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 72,
+        "fields": {
+            "name": "Task Chair",
+            "description": "A task chair designed for maximum comfort during long hours.",
+            "price": "7999.00",
+            "available": true,
+            "image": "furniture_images/task_chair.jpg",
+            "category": "office",
+            "dimensions": "24x24x38 inches",
+            "material": "Fabric and plastic"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 73,
+        "fields": {
+            "name": "Office Reception Sofa",
+            "description": "A stylish sofa for the office reception area.",
+            "price": "24999.99",
+            "available": true,
+            "image": "furniture_images/office_reception_sofa.jpg",
+            "category": "office",
+            "dimensions": "72x32x30 inches",
+            "material": "Fabric and metal"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 74,
+        "fields": {
+            "name": "Desk Organizer",
+            "description": "A desk organizer to keep your workspace tidy.",
+            "price": "1499.50",
+            "available": true,
+            "image": "furniture_images/desk_organizer.jpg",
+            "category": "office",
+            "dimensions": "12x8x6 inches",
+            "material": "Plastic"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 75,
+        "fields": {
+            "name": "Modular Office Table",
+            "description": "A modular table that can be configured for various uses.",
+            "price": "28999.00",
+            "available": true,
+            "image": "furniture_images/modular_office_table.jpg",
+            "category": "office",
+            "dimensions": "60x30x30 inches",
+            "material": "Wood and metal"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 76,
+        "fields": {
+            "name": "High-Back Executive Chair",
+            "description": "An executive chair with high back for maximum support.",
+            "price": "18999.99",
+            "available": true,
+            "image": "furniture_images/high_back_executive_chair.jpg",
+            "category": "office",
+            "dimensions": "26x26x48 inches",
+            "material": "Leather and metal"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 77,
+        "fields": {
+            "name": "Whiteboard",
+            "description": "A large whiteboard for meetings and brainstorming.",
+            "price": "4999.00",
+            "available": true,
+            "image": "furniture_images/whiteboard.jpg",
+            "category": "office",
+            "dimensions": "48x36 inches",
+            "material": "Melamine"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 78,
+        "fields": {
+            "name": "Small Meeting Table",
+            "description": "A small table suitable for meetings or casual discussions.",
+            "price": "9999.99",
+            "available": true,
+            "image": "furniture_images/small_meeting_table.jpg",
+            "category": "office",
+            "dimensions": "48x24x30 inches",
+            "material": "Wood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 79,
+        "fields": {
+            "name": "Side Table",
+            "description": "A side table for holding drinks or personal items.",
+            "price": "3999.50",
+            "available": true,
+            "image": "furniture_images/side_table.jpg",
+            "category": "office",
+            "dimensions": "24x24x24 inches",
+            "material": "Wood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 80,
+        "fields": {
+            "name": "Portable Laptop Stand",
+            "description": "A portable laptop stand for convenient working on the go.",
+            "price": "3499.00",
+            "available": true,
+            "image": "furniture_images/portable_laptop_stand.jpg",
+            "category": "office",
+            "dimensions": "22x15x12 inches",
+            "material": "Plastic"
+        }
+    }
+]

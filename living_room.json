@@ -1,0 +1,282 @@
+[
+    {
+        "model": "api.furniture",
+        "pk": 1,
+        "fields": {
+            "name": "Elegant Sofa",
+            "description": "A stylish and comfortable sofa for your living room.",
+            "price": "59999.00",
+            "available": true,
+            "image": "furniture_images/elegant_sofa.jpg",
+            "category": "living_room",
+            "dimensions": "220cm x 90cm x 85cm",
+            "material": "Fabric"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 2,
+        "fields": {
+            "name": "Luxurious Recliner",
+            "description": "A plush recliner that offers the ultimate relaxation experience.",
+            "price": "34999.00",
+            "available": true,
+            "image": "furniture_images/luxurious_recliner.jpg",
+            "category": "living_room",
+            "dimensions": "80cm x 90cm x 100cm",
+            "material": "Leather"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 3,
+        "fields": {
+            "name": "Modern TV Stand",
+            "description": "A sleek TV stand with storage for your media devices.",
+            "price": "19999.00",
+            "available": true,
+            "image": "furniture_images/modern_tv_stand.jpg",
+            "category": "living_room",
+            "dimensions": "150cm x 40cm x 50cm",
+            "material": "Wood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 4,
+        "fields": {
+            "name": "Decorative Flower Pot",
+            "description": "A beautiful ceramic flower pot to brighten up your living space.",
+            "price": "2999.00",
+            "available": true,
+            "image": "furniture_images/decorative_flower_pot.jpg",
+            "category": "living_room",
+            "dimensions": "25cm x 25cm x 30cm",
+            "material": "Ceramic"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 5,
+        "fields": {
+            "name": "Classic Tepoy",
+            "description": "A traditional tepoy for serving snacks or drinks.",
+            "price": "7999.00",
+            "available": true,
+            "image": "furniture_images/classic_tepoy.jpg",
+            "category": "living_room",
+            "dimensions": "60cm x 60cm x 45cm",
+            "material": "Wood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 6,
+        "fields": {
+            "name": "Chic Sectional Sofa",
+            "description": "A modern sectional sofa with extra seating space.",
+            "price": "79999.00",
+            "available": true,
+            "image": "furniture_images/chic_sectional_sofa.jpg",
+            "category": "living_room",
+            "dimensions": "250cm x 150cm x 85cm",
+            "material": "Fabric"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 7,
+        "fields": {
+            "name": "Contemporary Coffee Table",
+            "description": "A sleek coffee table that complements any living room decor.",
+            "price": "14999.00",
+            "available": true,
+            "image": "furniture_images/contemporary_coffee_table.jpg",
+            "category": "living_room",
+            "dimensions": "120cm x 60cm x 40cm",
+            "material": "Glass and Metal"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 8,
+        "fields": {
+            "name": "Rustic Bookshelf",
+            "description": "A wooden bookshelf with a rustic finish for your living room.",
+            "price": "25999.00",
+            "available": true,
+            "image": "furniture_images/rustic_bookshelf.jpg",
+            "category": "living_room",
+            "dimensions": "100cm x 30cm x 180cm",
+            "material": "Wood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 9,
+        "fields": {
+            "name": "Vintage Armchair",
+            "description": "A classic armchair with a vintage design.",
+            "price": "17999.00",
+            "available": true,
+            "image": "furniture_images/vintage_armchair.jpg",
+            "category": "living_room",
+            "dimensions": "85cm x 90cm x 100cm",
+            "material": "Wood and Fabric"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 10,
+        "fields": {
+            "name": "Leather Ottoman",
+            "description": "A leather ottoman for extra seating or as a footrest.",
+            "price": "9999.00",
+            "available": true,
+            "image": "furniture_images/leather_ottoman.jpg",
+            "category": "living_room",
+            "dimensions": "60cm x 60cm x 45cm",
+            "material": "Leather"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 11,
+        "fields": {
+            "name": "Minimalist TV Console",
+            "description": "A minimalist TV console with ample storage.",
+            "price": "22999.00",
+            "available": true,
+            "image": "furniture_images/minimalist_tv_console.jpg",
+            "category": "living_room",
+            "dimensions": "160cm x 45cm x 50cm",
+            "material": "Wood and Metal"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 12,
+        "fields": {
+            "name": "Glass-Top Coffee Table",
+            "description": "A modern glass-top coffee table with chrome legs.",
+            "price": "18999.00",
+            "available": true,
+            "image": "furniture_images/glass_top_coffee_table.jpg",
+            "category": "living_room",
+            "dimensions": "120cm x 60cm x 40cm",
+            "material": "Glass and Metal"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 13,
+        "fields": {
+            "name": "Luxury Reclining Chair",
+            "description": "A luxury reclining chair with premium leather upholstery.",
+            "price": "45999.00",
+            "available": true,
+            "image": "furniture_images/luxury_reclining_chair.jpg",
+            "category": "living_room",
+            "dimensions": "90cm x 100cm x 110cm",
+            "material": "Leather"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 14,
+        "fields": {
+            "name": "Decorative Wall Shelf",
+            "description": "A decorative wall shelf perfect for displaying your living room decor.",
+            "price": "4999.00",
+            "available": true,
+            "image": "furniture_images/decorative_wall_shelf.jpg",
+            "category": "living_room",
+            "dimensions": "80cm x 20cm x 15cm",
+            "material": "Wood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 15,
+        "fields": {
+            "name": "Modern Sectional Sofa",
+            "description": "A large sectional sofa perfect for families or entertaining guests.",
+            "price": "69999.00",
+            "available": true,
+            "image": "furniture_images/modern_sectional_sofa.jpg",
+            "category": "living_room",
+            "dimensions": "270cm x 160cm x 85cm",
+            "material": "Fabric"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 16,
+        "fields": {
+            "name": "Decorative Indoor Rug",
+            "description": "A soft and stylish indoor rug to complement your living room.",
+            "price": "12999.00",
+            "available": true,
+            "image": "furniture_images/decorative_indoor_rug.jpg",
+            "category": "living_room",
+            "dimensions": "200cm x 150cm",
+            "material": "Fabric"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 17,
+        "fields": {
+            "name": "Wooden Coffee Table",
+            "description": "A classic wooden coffee table with a natural finish.",
+            "price": "12999.00",
+            "available": true,
+            "image": "furniture_images/wooden_coffee_table.jpg",
+            "category": "living_room",
+            "dimensions": "120cm x 60cm x 40cm",
+            "material": "Wood"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 18,
+        "fields": {
+            "name": "Ceramic Flower Vase",
+            "description": "A beautiful ceramic flower vase for your living room.",
+            "price": "2499.00",
+            "available": true,
+            "image": "furniture_images/ceramic_flower_vase.jpg",
+            "category": "living_room",
+            "dimensions": "20cm x 20cm x 35cm",
+            "material": "Ceramic"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 19,
+        "fields": {
+            "name": "Industrial TV Stand",
+            "description": "A rugged industrial-style TV stand with metal accents.",
+            "price": "25999.00",
+            "available": true,
+            "image": "furniture_images/industrial_tv_stand.jpg",
+            "category": "living_room",
+            "dimensions": "160cm x 45cm x 55cm",
+            "material": "Wood and Metal"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 20,
+        "fields": {
+            "name": "Vintage Tepoy",
+            "description": "A vintage-style tepoy that adds a touch of elegance to any living room.",
+            "price": "8999.00",
+            "available": true,
+            "image": "furniture_images/vintage_tepoy.jpg",
+            "category": "living_room",
+            "dimensions": "65cm x 65cm x 45cm",
+            "material": "Wood"
+        }
+    }
+]
